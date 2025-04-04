@@ -61,11 +61,11 @@ The analysis is performed on the `movies.csv` dataset.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/sushma36/moviecorrelationanalysis
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd <repository-name>
+    cd https://github.com/sushma36/moviecorrelationanalysis
     ```
 3.  **Install required libraries:**
     ```bash
